@@ -8,7 +8,7 @@ This project is intended to bring the advantages those solutions together.
 [Versioning](https://semver.org/) 
 [Learn Rust](https://www.rust-lang.org/learn)
 
-🍿 This is a side project of me to do something fun - far away from dayjob and kids.
+🍿 This is a side project of me to do something fun - far away from day job and kids.
 <!--
 
 **Here are some ideas to get you started:**
