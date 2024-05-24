@@ -12,6 +12,10 @@ The name is an artificial word put together from
 [Learn Rust](https://www.rust-lang.org/learn)
 
 🍿 This is a side project of me to do something fun - far away from day job and kids.
+Whatever might be created with this project, please keep in mind that this is voluntary work.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
