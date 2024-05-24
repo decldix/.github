@@ -8,8 +8,8 @@ The name is an artificial word put together from
 **decl**arative **d**ebian n**ix** as these are the driving principles behind this project idea.
 
 👩‍💻 Useful resources: 
-[Versioning](https://semver.org/) 
 [Learn Rust](https://www.rust-lang.org/learn)
+[Opensource Guide](https://opensource.guide/)
 
 🍿 This is a side project of me to do something fun
 Whatever might be created with this project, please keep in mind that this is voluntary work.
@@ -22,7 +22,7 @@ Contributions to open source projects are very valuable and every contributor ne
 
 
 <!--
-
+[Versioning](https://semver.org/) 
 **Here are some ideas to get you started:**
 
 
